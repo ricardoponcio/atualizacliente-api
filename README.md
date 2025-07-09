@@ -50,6 +50,6 @@ This repository contains the backend for the AtualizaCliente platform, responsib
 ## Notes
 
 - The system is designed for self-hosted use and does not support multi-company.
-- For usage details and payload examples, see the frontend documentation or the project's [main README](../../README.md).
+- For usage details and payload examples, see the frontend documentation or the project's [main README](https://github.com/ricardoponcio/atualizacliente).
 
 ---
